@@ -1,0 +1,18 @@
+{
+  "name": "humster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "node-schedule": "^2.1.1"
+  }
+}
